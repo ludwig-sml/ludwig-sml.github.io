@@ -18,10 +18,10 @@ main:
 #    url: /teaching/
     
   - title: "Research"
-    url: /unfancyresearch/
+    url: /research/
     
   - title: "Teaching"
-    url: /non-menu-page/
+    url: /teachingoverview/
      
   - title: "Talks"
     url: /talks/

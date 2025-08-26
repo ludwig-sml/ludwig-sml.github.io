@@ -1,10 +1,10 @@
 ---
-permalink: /non-menu-page/
+permalink: /teachingoverview/
 title: "Teaching"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/teachs/"
+  - "/teachs.html"
 ---
 
 ## Freiburg
