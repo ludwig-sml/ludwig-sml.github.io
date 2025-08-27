@@ -6,7 +6,7 @@ redirect_from:
   - "/teachs/"
   - "/teachs.html"
 ---
-
+<!-- Uses permalink teachinhoverviewe because teaching does not work, probably as the initial template uses it in some way-->
 ## Freiburg
 I am assistant for the following courses.
 ### WS 25/26
@@ -30,7 +30,7 @@ I am assistant for the following courses.
 étrangers d'Archereau, Terre d'Asile France)
 
 ## Münster
-In between 2016-2021 I worked several semeßsters as a student teaching assistant (exercise classes, correction of exercise sheets, correction of exams) for the following courses:
+In between 2016-2021 I worked several semesters as a student teaching assistant (exercise classes, correction of exercise sheets, correction of exams) for the following courses:
 
  * Analysis 1 (2x)
  * Analysis 2
