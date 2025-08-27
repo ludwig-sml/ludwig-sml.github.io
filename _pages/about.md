@@ -13,3 +13,6 @@ My **research interests** are in model theory and its applications and interacti
 
 More concretely, in my thesis I studied the model theory of (the common theory of) finite fields with both additive and multiplicative character as well as of the algebraic closures of finite fields with an additive character on the fixed field. Both extend the [work](https://arxiv.org/abs/1911.01096) of Hrushovski. Prior to that I worked on metric valued fields in a continuous logic setting. 
 
+#### Contact information
+ * Email: stefan[dot]ludwig[at]mathematik[dot]uni-freiburg[dot]de
+ * Address: Room 304, Abteilung für mathematische Logik, Ernst-Zermelo-Straße 1, 79114 Freiburg
