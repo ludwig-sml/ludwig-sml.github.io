@@ -11,7 +11,7 @@ I am a postdoc in mathematics working in the group of [Amador Martin-Pizarro](ht
 
 My **research interests** are in model theory and its applications and interactions with number theory. I am particularly interested in (estimates of) character sums over finite fields and how they can be used model-theoretically. On the model theoretic side this involves questions around continuous logic, elimination of imaginaries, higher amalgamation, etc.
 
-More concretely, in my thesis I studied the model theory of (the common theory of) finite fields with both additive and multiplicative character as well as of the algebraic closures of finite fields with an additive character on the fixed field. Both extend the [work](https://arxiv.org/abs/1911.01096) of Hrushovski. Prior to that I worked on metric valued fields in a continuous logic setting. 
+More concretely, in my [thesis](https://theses.hal.science/tel-05236078) I studied the model theory of (the common theory of) finite fields with both additive and multiplicative character as well as of the algebraic closures of finite fields with an additive character on the fixed field. Both extend the [work](https://arxiv.org/abs/1911.01096) of Hrushovski. Prior to that I worked on metric valued fields in a continuous logic setting. 
 
 #### Contact information
  * Email: stefan[dot]ludwig[at]mathematik[dot]uni-freiburg[dot]de
