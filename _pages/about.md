@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in mathematics working in the group of [Amador Martin-Pizarro](https://home.mathematik.uni-freiburg.de/pizarro/) at the University of Freiburg. I did my PhD under the supervision of Zoé Chatzidakis and [Martin Hils](https://www.uni-muenster.de/Logik/hils/) at the École Normale Supérieure Paris where I defended it in July 2025. Prior to that I completed my Bachelor and Master in mathematics at the University of Münster.
+I am a postdoc in mathematics working in the group of [Amador Martin-Pizarro](https://home.mathematik.uni-freiburg.de/pizarro/) at the University of Freiburg. I did my PhD under the supervision of Zoé Chatzidakis and [Martin Hils](https://www.uni-muenster.de/Logik/hils/){:target="_blank"} at the École Normale Supérieure Paris where I defended it in July 2025. Prior to that I completed my Bachelor and Master in mathematics at the University of Münster.
 
 My **research interests** are in model theory and its applications and interactions with number theory. I am particularly interested in (estimates of) character sums over finite fields and how they can be used model-theoretically. On the model theoretic side this involves questions around continuous logic, elimination of imaginaries, higher amalgamation, etc.
 
