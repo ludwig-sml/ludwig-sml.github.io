@@ -9,7 +9,7 @@ redirect_from:
 
 ## Freiburg
  * Basic notions seminar
-    * Together with Ben Snoedgrass we organise (since SS25) the Basic notions seminar aimed at PhD students and postdocs. The idea is to present an accessible (for everyone!) topic of interest in an informal setting. Please contact me if you want to join the mailing list and/or are interested to give a talk. We always look for speakers!
+    * Together with Ben Snodgrass we organise (since SS25) the Basic notions seminar aimed at PhD students and postdocs. The idea is to present an accessible (for everyone!) topic of interest in an informal setting. Please contact me if you want to join the mailing list and/or are interested to give a talk. We always look for speakers!
  * Reading group on étale cohomolgy (WS 24/25)
  
 ## Paris
