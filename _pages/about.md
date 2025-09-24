@@ -16,3 +16,4 @@ More concretely, in my [thesis](https://theses.hal.science/tel-05236078){:target
 #### Contact information
  * Email: stefan[dot]ludwig[at]mathematik[dot]uni-freiburg[dot]de
  * Address: Room 304, Abteilung für mathematische Logik, Ernst-Zermelo-Straße 1, 79114 Freiburg
+* Office hours: Wednesday 11:00-12:30 (Terminabsprache per mail)
