@@ -9,6 +9,7 @@ redirect_from:
 
 ## Research talks
 
+ * Logic seminar Oxford - University of Oxford (20/11/2025)
  * Séminaire de Théorie des modèles et groupes - Université Paris Cité (03/06/2025)
  * Oberseminar Modelltheorie und Gruppen - Münster (17/04/2025)
  * Oberseminar Logik - Bonn (16/12/2024)

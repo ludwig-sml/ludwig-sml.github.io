@@ -9,6 +9,9 @@ redirect_from:
 
 
 ## Articles/Preprints
+[Pseudofinite fields with additive and multiplicative character](https://arxiv.org/abs/2511.20243){:target="_blank"}
+#### Abstract:
+We introduce the theory $\mathrm{PF}^{+,\times}$ of pseudofinite fields with generic additive and multiplicative character added as continuous logic predicates. Using the Weil bounds on character sums over finite fields as well as the Erd\H{o}s-Tur\`an-Koksma inequality we show that it is the asymptotic theory (in characteristic $0$) of finite fields with (sufficiently generic) additive and multiplicative character. Moreover, we establish quantifier elimination in a natural definitional expansion of the language and deduce that integration by the Chatzidakis-van den Dries-Macintyre counting measure is uniformly definable in the parameters. Finally, we show that $\mathrm{PF}^{+,\times}$ is a simple theory.
 [An Approximate AKE Principle for Metric Valued Fields (with Martin Hils)](https://arxiv.org/abs/2208.10186){:target="_blank"}
 #### Abstract:
 We study metric valued fields in continuous logic, following Ben Yaacov's approach, thus working in the metric space given by the projective line. As our main result, we obtain an approximate Ax-Kochen-Ershov principle in this framework, completely describing elementary equivalence in equicharacteristic 0 in terms of the residue field and value group. Moreover, we show that, in any characteristic, the theory of metric valued difference fields does not admit a model-companion. This answers a question of Ben Yaacov.
