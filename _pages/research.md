@@ -10,9 +10,14 @@ redirect_from:
 
 ## Articles/Preprints
 
+[Model theory of difference fields with an additive character on the fixed field](https://arxiv.org/abs/2512.10583){:target="_blank"}
+
+#### Abstract:
+Following a research line proposed by Hrushovski in his work on pseudofinite fields with an additive character, we investigate the theory \\(\mathrm{ACFA}^{+}\\) which is the model companion of the theory of difference fields with an additive character on the fixed field added as a continuous logic predicate. \\(\mathrm{ACFA}^{+}\\) is the common theory (in characteristic 0) of the algebraic closure of finite fields with the Frobenius automorphism and the standard character on the fixed field and turns out to be a simple theory. We fully characterise 3-amalgamation and deduce that the connected component of the Kim-Pillay group (for any completion of \\(\mathrm{ACFA}^{+}\\)) is abelian as conjectured by Hrushovski. Finally, we describe a natural expansion of \\(\mathrm{ACFA}^{+}\\) in which geometric elimination of continuous logic imaginaries holds.
+
 [Pseudofinite fields with additive and multiplicative character](https://arxiv.org/abs/2511.20243){:target="_blank"}
 #### Abstract:
-We introduce the theory $\mathrm{PF}^{+,\times}$ of pseudofinite fields with generic additive and multiplicative character added as continuous logic predicates. Using the Weil bounds on character sums over finite fields as well as the Erd\H{o}s-Tur\`an-Koksma inequality we show that it is the asymptotic theory (in characteristic $0$) of finite fields with (sufficiently generic) additive and multiplicative character. Moreover, we establish quantifier elimination in a natural definitional expansion of the language and deduce that integration by the Chatzidakis-van den Dries-Macintyre counting measure is uniformly definable in the parameters. Finally, we show that $\mathrm{PF}^{+,\times}$ is a simple theory.
+We introduce the theory \\(\mathrm{PF}^{+,\times}\\) of pseudofinite fields with generic additive and multiplicative character added as continuous logic predicates. Using the Weil bounds on character sums over finite fields as well as the Erdős-Turàn-Koksma inequality we show that it is the asymptotic theory (in characteristic 0) of finite fields with (sufficiently generic) additive and multiplicative character. Moreover, we establish quantifier elimination in a natural definitional expansion of the language and deduce that integration by the Chatzidakis-van den Dries-Macintyre counting measure is uniformly definable in the parameters. Finally, we show that \\(\mathrm{PF}^{+,\times}\\) is a simple theory.
 
 [An Approximate AKE Principle for Metric Valued Fields (with Martin Hils)](https://arxiv.org/abs/2208.10186){:target="_blank"}
 #### Abstract:
