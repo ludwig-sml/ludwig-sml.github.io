@@ -13,7 +13,7 @@ redirect_from:
 [Higher amalgamation in \\(\mathrm{ACFA}^{+}\\)](https://arxiv.org/abs/2601.05096){:target="_blank"}
 
 #### Abstract:
-We show two results on higher amalgamation in the theory \\(\mathrm{ACFA}^{+}\\), the model companion of the theory of difference fields with an additive character (added as a continuous logic predicate) on the fixed field in characteristic 0. On one hand, we show that the non-trivial condition for 3-amalgamation established in a preceding paper is not sufficient for 4-amalgamation. On the other hand, we show that when working over substructures whose \\(\mathcal{L}_{\sigma}\\)-reduct is a model of $\\(mathrm{ACFA}\\), $\\(n\\)-amalgamation holds for all \\(n\geq 3\\).
+We show two results on higher amalgamation in the theory \\(\mathrm{ACFA}^{+}\\), the model companion of the theory of difference fields with an additive character (added as a continuous logic predicate) on the fixed field in characteristic 0. On one hand, we show that the non-trivial condition for 3-amalgamation established in a preceding paper is not sufficient for 4-amalgamation. On the other hand, we show that when working over substructures whose \\(\mathcal{L}_{\sigma}\\)-reduct is a model of \\(\mathrm{ACFA}\\), \\(n\\)-amalgamation holds for all \\(n\geq 3\\).
 
 [Model theory of difference fields with an additive character on the fixed field](https://arxiv.org/abs/2512.10583){:target="_blank"}
 
