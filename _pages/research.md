@@ -10,6 +10,11 @@ redirect_from:
 
 ## Articles/Preprints
 
+[Higher amalgamation in \\(\mathrm{ACFA}^{+}\\)](https://arxiv.org/abs/2601.05096){:target="_blank"}
+
+#### Abstract:
+We show two results on higher amalgamation in the theory \\(\mathrm{ACFA}^{+}\\), the model companion of the theory of difference fields with an additive character (added as a continuous logic predicate) on the fixed field in characteristic 0. On one hand, we show that the non-trivial condition for 3-amalgamation established in a preceding paper is not sufficient for 4-amalgamation. On the other hand, we show that when working over substructures whose \\(\mathcal{L}_{\sigma}\\)-reduct is a model of $\\(mathrm{ACFA}\\), $\\(n\\)-amalgamation holds for all \\(n\geq 3\\).
+
 [Model theory of difference fields with an additive character on the fixed field](https://arxiv.org/abs/2512.10583){:target="_blank"}
 
 #### Abstract:
@@ -23,14 +28,10 @@ We introduce the theory \\(\mathrm{PF}^{+,\times}\\) of pseudofinite fields with
 #### Abstract:
 We study metric valued fields in continuous logic, following Ben Yaacov's approach, thus working in the metric space given by the projective line. As our main result, we obtain an approximate Ax-Kochen-Ershov principle in this framework, completely describing elementary equivalence in equicharacteristic 0 in terms of the residue field and value group. Moreover, we show that, in any characteristic, the theory of metric valued difference fields does not admit a model-companion. This answers a question of Ben Yaacov.
 ## PhD Thesis 
-I am currently dividing the results of my PhD thesis into articles.
+
 #### Title: 
 [The model theory of difference fields with an additive character on the fixed field](https://theses.hal.science/tel-05236078){:target="_blank"}
-#### Abstract:
-Building on work of Hrushovski on pseudofinite fields with an additive character we study the model theory of difference fields (in characteristic 0) with an additive character on the fixed field added as a complex-valued continuous logic predicate. Their theory has a model companion, the theory \\(\mathrm{ACFA}^{+}\\). It has quantifier elimination up to algebraically bounded quantifiers and coincides with the characteristic 0 asymptotic theory of the algebraic closure of finite fields together with the Frobenius and an additive character on the fixed field. \\(\mathrm{ACFA}^{+}\\) is simple but 3-amalgamation does not hold in general over \\(\mathrm{acl}_{\sigma}\\)-closed sets in contrast to the classical logic theory \\(\mathrm{ACFA}\\).
-Following a suggested line of research by Hrushovski we give a complete characterisation of this phenomenon. It allows us to determine the identity component of the Kim-Pillay group as a topological group. In particular this confirms Hrushovski's expectation that the group is abelian. In addition we deduce a classification of the (continuous logic-)imaginaries in \\(\mathrm{ACFA}^{+}\\).
-We then study higher amalgamation. Surprisingly, in contrast to the theories \\(\mathrm{ACFA}\\) and \\(\mathrm{PF}^{+}\\), we can construct a counterexample to 4-amalgamation over an algebraically closed set for which 3-amalgamation holds. Nevertheless, we show that \\(n\\)-amalgamation holds over models for all \\(n\in\mathbb{N}\\).
-In the last chapter of the thesis we generalise Hrushovski's results in a different direction. Motivated by natural examples from number theory we introduce the theory \\(\mathrm{PF}^{+,\times}\\) of pseudofinite fields with both, additive and multiplicative character (of infinite order). We show quantifier elimination in a natural extension of the language and obtain that \\(\mathrm{PF}^{+,\times}\\) is the characteristic 0 asymptotic theory of finite fields with nontrivial additive and sufficiently generic multiplicative character. This, in contrast to \\(\mathrm{PF}^{+}\\), makes use of the Erdos-Turan-Koksma inequality from combinatorics. Finally, we prove that integration of definable predicates with respect to the Chatzidakis-van den Dries-Macintyre counting measure is uniformly definable in the parameters. 
+
 
 
 
