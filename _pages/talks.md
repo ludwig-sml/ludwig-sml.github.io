@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 ## Research talks
-
+ * Logic Colloquium 2026: Model theory special session - Swansea University (02/07/2026)
+ * Workshop on Model Theory and Applications - Chania (02/06/2026)
+ * Geometry and Combinatorics: The Model Theoretic Perspective - Oberwolfach Workshop (05/05/2026)
+ * Minicourse on pseudofinite fields - Universidad Complutense de Madrid (20-26/03/2026)
+ * Logic seminar Singapore - NUS Singapore (18/03/2026)
+ * Logic seminar Nanjing - Nanjing Univeristy (12/03/2026)
  * Logic seminar Oxford - University of Oxford (20/11/2025)
  * Séminaire de Théorie des modèles et groupes - Université Paris Cité (03/06/2025)
  * Oberseminar Modelltheorie und Gruppen - Münster (17/04/2025)
@@ -16,9 +21,9 @@ redirect_from:
  * Oberseminar Logik - Freiburg (03/12/2024)
  * Rhine seminar on transcendence - Strasbourg (14/10/2024)
  * Logic Advanced Class - University of Oxford (02/05/2024)
- * Regional Days on Model Theory and Applications (14/02/24) _invited_
+ * Regional Days on Model Theory and Applications (14/02/24) 
  * Séminaire Raconte-moi - ENS Paris (10/01/2024)
- * Antalya Algebra Days XXII (19/05/23) _invited_
+ * Antalya Algebra Days XXII (19/05/23) 
  * Séminaire de Théorie des modèles et groupes University Paris Diderot (09/05/2023)
  * Seminar Algebra-Geometrie-Kombinatorik - TU Dresden (15/12/22)
  * Séminaire de Théorie des modèles et groupes - Université Paris Cité (19/04/2022)
