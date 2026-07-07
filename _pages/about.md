@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will start a postdoctoral position in the mathematical logic group (of Philipp Hieronymi) at the University of Bonn in October 2026. In the fall semester I will offer a [seminar on the model theory of valued fields](https://ludwig-sml.github.io/seminar_programme_WISE26-27_valued-fields.pdf) (joint with Philipp Hieronymi).
+I will start a postdoctoral position in the mathematical logic group (of Philipp Hieronymi) at the University of Bonn in October 2026. In the fall semester I will offer a [seminar on the model theory of valued fields](https://ludwig-sml.github.io//WS26-27valuedfields/) (joint with Philipp Hieronymi).
 
 Currently I am a postdoc in mathematics working in the group of [Amador Martin-Pizarro](https://home.mathematik.uni-freiburg.de/pizarro/){:target="_blank"} at the University of Freiburg. I did my PhD under the supervision of Zoé Chatzidakis and [Martin Hils](https://www.uni-muenster.de/Logik/hils/){:target="_blank"} at the École Normale Supérieure Paris where I defended it in July 2025. Prior to that I completed my Bachelor and Master in mathematics at the University of Münster.
 

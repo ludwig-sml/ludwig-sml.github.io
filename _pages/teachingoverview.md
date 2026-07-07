@@ -9,7 +9,7 @@ redirect_from:
 <!-- Uses permalink teachinhoverviewe because teaching does not work, probably as the initial template uses it in some way-->
 ## Bonn
 ### WS 26-27
- * [Seminar on the model theory of valued fields.](https://ludwig-sml.github.io/seminar_programme_WISE26-27_valued-fields.pdf) 
+ * [Seminar on the model theory of valued fields.](https://ludwig-sml.github.io//WS26-27valuedfields/) 
 
 ## Freiburg
 I am assistant for the following courses.
