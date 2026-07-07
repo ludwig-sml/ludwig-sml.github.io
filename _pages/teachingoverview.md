@@ -7,8 +7,15 @@ redirect_from:
   - "/teachs.html"
 ---
 <!-- Uses permalink teachinhoverviewe because teaching does not work, probably as the initial template uses it in some way-->
+## Bonn
+### WS 26-27
+ * Seminar on the model theory of valued fields. 
+
 ## Freiburg
 I am assistant for the following courses.
+### SS 26
+ * [Mathematische Logik](https://ilias.uni-freiburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=4199511)   
+    
 ### WS 25/26
  * Formale Logik
  * [Proseminar Graphentheorie](https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ws25/proseminar.html)
