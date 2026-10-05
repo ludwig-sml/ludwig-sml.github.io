@@ -25,11 +25,11 @@ author:
   avatar           : "Ludwig-500x500.jpg"
   name             : #"Stefan Ludwig"
   pronouns         : # example: "she/her"
-  bio              : "Postdoc, Room 304, Abteilung für mathematische Logik, Ernst-Zermelo-Straße 1, 79114 Freiburg"
+  bio              : "Postdoc, Room 3.002, Mathematisches Institut, Endenicher Allee 60, 53115 Bonn"
   location         : #"Ernst-Zermelo-Straße 1"
-  employer         : "University of Freiburg"
+  employer         : "University of Bonn"
   uri              : # URL
-  email            : "stefan.ludwig@mathematik.uni-freiburg.de"
+  email            : "sludwig@math.uni-bonn.de"
 
   # Academic websites
   academia         : # URL

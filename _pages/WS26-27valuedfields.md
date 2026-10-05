@@ -7,10 +7,14 @@ redirect_from:
   - "/ufr.html"
 ---
 
-## Organisational meeting
-
-There will be an organisational meeting online on Monday, 20 July 2026, 10 (c.t.). Please find the details below in the programme
-
+## Information
+ 
+ The seminar takes place on Fridays 10–12 (c.t.) in SemR 0.007 starting from 16 October 2026.
+ 
 ## Programme
 
-You can find the programme as well as further informations [here](https://ludwig-sml.github.io/seminar_programme_WISE26-27_valued-fields.pdf).
+You can find the updated programme as well as further informations [here](https://ludwig-sml.github.io/seminar_programme_WISE26-27_valued-fields.pdf).
+
+## Organisational meeting
+
+There was an organisational meeting online on Monday, 20 July 2026, 10 (c.t.).
