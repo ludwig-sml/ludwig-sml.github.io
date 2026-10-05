@@ -7,6 +7,9 @@ redirect_from:
   - "/orga.html"
 ---
 
+## Bonn
+ * [Oberseminar Logik](https://www.math.uni-bonn.de/ag/logik/oberseminar-WiSe2627.shtml){:target="_blank"} 
+
 ## Freiburg
  * Basic notions seminar
     * Together with Ben Snodgrass we organise (since SS25) the Basic notions seminar aimed at PhD students and postdocs. The idea is to present an accessible (for everyone!) topic of interest in an informal setting. Please contact me if you want to join the mailing list and/or are interested to give a talk. We always look for speakers!

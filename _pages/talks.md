@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Research talks
+ * Colloquium Logicum 2026 - PhD Colloquium - Würzburg (21/09/2026) 
  * Logic Colloquium 2026: Model theory special session - Swansea University (02/07/2026)
  * Workshop on Model Theory and Applications - Chania (02/06/2026)
  * Geometry and Combinatorics: The Model Theoretic Perspective - Oberwolfach Workshop (05/05/2026)
